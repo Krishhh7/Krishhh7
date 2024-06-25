@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishhh7
+- 👋 Hi, I’m @Shrikrishna_Kulkarni
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Machine Learning Fundamentals.
 - 💞️ I’m looking to collaborate on Applied ML Projects.
